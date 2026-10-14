@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="v60-archive/device_lge_timelm" path="device/lge/timelm" remote="github" revision="axion" />
+  <project name="v60-archive/device_lge_timelm" path="device/lge/timelm" remote="github" revision="infinity" />
 
   <!-- Hardware -->
   <project name="v60-archive/hardware_lge" path="hardware/lge" remote="github" revision="bka" />
