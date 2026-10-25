@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="v60-archive/device_lge_timelm" path="device/lge/timelm" remote="github" revision="infinity17" />
+  <project name="v60-archive/device_lge_timelm" path="device/lge/timelm" remote="github" revision="penguin17" />
 
   <!-- Hardware -->
   <project name="v60-archive/hardware_lge" path="hardware/lge" remote="github" revision="cnb" />
@@ -12,4 +12,7 @@
   <!-- Vendor -->
   <project name="v60-archive/vendor_lge_timelm" path="vendor/lge/timelm" remote="github" revision="bka" />
 
+  <project name="LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc" path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" remote="github" revision="lineage-19.1" />
+
+  <project name="LineageOS/android_device_lineage_sepolicy" path="device/lineage/sepolicy" remote="github" revision="lineage-24.0" />
 </manifest>
